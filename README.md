@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div>
   <a href="https://github.com/JLeoBorges">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?JLeoBorges=anuraghazra&repo=github-readme-stats" />
     
   </div>
+-->
