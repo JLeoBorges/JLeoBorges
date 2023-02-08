@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/JLeoBorges">
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=JLeoBorges&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=JLeoBorges&show_icons=true&theme=nord&include_all_commits=true&count_private=true"
     />
     <img
       height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLeoBorges&layout=compact&langs_count=16&theme=gotham"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLeoBorges&layout=compact&langs_count=16&theme=nord"
     />
   </a>
 </p>
